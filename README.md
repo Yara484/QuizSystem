@@ -4,4 +4,4 @@ application. It includes: classes, objects, abstract classes, inheritance, polym
 The program asks the user for name and ID which are stored in the id file and if the info matches then it moves on to choosing the module
 then taking the quiz then displaying the grade achieved.
 
-Note that in order for it to run, you will have to change the path of the source file that includes the id's, quiz questions, and answers
+Note that in order for it to run, you will have to change the path of the source file that includes the id's, quiz questions, and answers.
